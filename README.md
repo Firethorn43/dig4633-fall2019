@@ -1,6 +1,4 @@
 # dig4633-fall2019
-Template for course repository
+Rumpelstiltskin
 
-As you complete each lab, you should provide a description of your features and changes here.
-
-## VR Lab: TITLE HERE
+## VR Lab: Butter Churn Game
