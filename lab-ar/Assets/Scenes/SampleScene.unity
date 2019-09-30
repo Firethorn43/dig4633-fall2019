@@ -403,9 +403,9 @@ MonoBehaviour:
   OnContentPlaced:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: a4763fe6d582f50478ab3dcd3c46a6de, type: 3}
-        m_MethodName: set_name
-        m_Mode: 5
+      - m_Target: {fileID: 962055368}
+        m_MethodName: DoOnPlaceBehavior
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
